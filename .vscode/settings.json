@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/Nick/.local/share/virtualenvs/pyargs-0GFMnnFL/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "yapf"
+}
