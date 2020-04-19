@@ -7,7 +7,7 @@ if __name__ == "__main__":
     必传参数.
     """
     parser.add_argument("count", action="store", type=int)
-    parser.add_argument("units", action="store")
+    parser.add_argument("units", action="store", type=str)
     """
     可选参数.
     """
